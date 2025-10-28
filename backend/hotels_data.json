@@ -1,0 +1,412 @@
+[
+  {
+    "hotelId": "H001",
+    "hotelName": "Taste of India",
+    "hotelAddress": "Commercial Street, Bangalore",
+    "hotelRating": 4.2,
+    "hotelImage": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "category": "Indian",
+    "menuItems": [
+      {
+        "itemId": "M001",
+        "itemName": "Masala Dosa",
+        "itemDescription": "Crispy rice crepe filled with spiced potato curry, served with coconut chutney and sambar.",
+        "itemPrice": 120,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M002",
+        "itemName": "Idli Sambar",
+        "itemDescription": "Steamed rice cakes served with lentil curry and coconut chutney.",
+        "itemPrice": 80,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "itemId": "M003",
+        "itemName": "Chicken Biryani",
+        "itemDescription": "Aromatic basmati rice cooked with tender chicken pieces and traditional spices.",
+        "itemPrice": 280,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1563379091339-03246963d96c"
+      },
+      {
+        "itemId": "M004",
+        "itemName": "Mutton Curry",
+        "itemDescription": "Tender mutton pieces cooked in rich coconut-based curry with South Indian spices.",
+        "itemPrice": 350,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M005",
+        "itemName": "Fish Fry",
+        "itemDescription": "Fresh fish marinated in spices and shallow fried to perfection.",
+        "itemPrice": 220,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1544943910-4c1dc44aab44"
+      },
+      {
+        "itemId": "M006",
+        "itemName": "Rasam",
+        "itemDescription": "Traditional South Indian soup made with tamarind, tomatoes and aromatic spices.",
+        "itemPrice": 90,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+      },
+      {
+        "itemId": "M007",
+        "itemName": "Curd Rice",
+        "itemDescription": "Comfort food made with rice mixed in yogurt, tempered with mustard seeds.",
+        "itemPrice": 100,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+      },
+      {
+        "itemId": "M008",
+        "itemName": "Vada",
+        "itemDescription": "Deep-fried savory donuts made from lentil batter, crispy outside and soft inside.",
+        "itemPrice": 60,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "itemId": "M009",
+        "itemName": "Uttapam",
+        "itemDescription": "Thick pancake made from rice and lentil batter topped with vegetables.",
+        "itemPrice": 140,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M010",
+        "itemName": "Coconut Rice",
+        "itemDescription": "Fragrant rice cooked with fresh coconut, curry leaves and South Indian spices.",
+        "itemPrice": 150,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+      },
+      {
+        "itemId": "M011",
+        "itemName": "Sambar Vada",
+        "itemDescription": "Crispy vadas soaked in hot sambar, a perfect comfort food combination.",
+        "itemPrice": 110,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "itemId": "M012",
+        "itemName": "Prawn Curry",
+        "itemDescription": "Fresh prawns cooked in coconut milk with traditional South Indian spices.",
+        "itemPrice": 320,
+        "itemCategory": "Dinner",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M013",
+        "itemName": "Vegetable Biryani",
+        "itemDescription": "Aromatic basmati rice layered with mixed vegetables and biryani spices.",
+        "itemPrice": 200,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1563379091339-03246963d96c"
+      },
+      {
+        "itemId": "M014",
+        "itemName": "Appam",
+        "itemDescription": "Soft, spongy pancakes made from fermented rice batter with coconut milk.",
+        "itemPrice": 80,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M015",
+        "itemName": "Chicken Chettinad",
+        "itemDescription": "Spicy chicken curry from Chettinad region with roasted spices and coconut.",
+        "itemPrice": 300,
+        "itemCategory": "Dinner",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M016",
+        "itemName": "Payasam",
+        "itemDescription": "Traditional South Indian dessert made with rice, milk, jaggery and cardamom.",
+        "itemPrice": 120,
+        "itemCategory": "Dessert",
+        "itemImage": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9"
+      },
+      {
+        "itemId": "M017",
+        "itemName": "Filter Coffee",
+        "itemDescription": "Authentic South Indian coffee brewed with chicory and served with hot milk.",
+        "itemPrice": 50,
+        "itemCategory": "Drinks",
+        "itemImage": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+      },
+      {
+        "itemId": "M018",
+        "itemName": "Lemon Rice",
+        "itemDescription": "Tangy rice dish tempered with mustard seeds, curry leaves and turmeric.",
+        "itemPrice": 130,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+      },
+      {
+        "itemId": "M019",
+        "itemName": "Mysore Pak",
+        "itemDescription": "Rich, sweet confection made with gram flour, ghee and sugar.",
+        "itemPrice": 180,
+        "itemCategory": "Dessert",
+        "itemImage": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9"
+      },
+      {
+        "itemId": "M020",
+        "itemName": "Buttermilk",
+        "itemDescription": "Refreshing drink made with yogurt, water and spices, perfect for hot weather.",
+        "itemPrice": 40,
+        "itemCategory": "Drinks",
+        "itemImage": "https://images.unsplash.com/photo-1544145945-f90425340c7e"
+      },
+      {
+        "itemId": "M021",
+        "itemName": "Rava Upma",
+        "itemDescription": "Savory breakfast dish made with semolina, vegetables and South Indian spices.",
+        "itemPrice": 90,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M022",
+        "itemName": "Chicken 65",
+        "itemDescription": "Spicy, deep-fried chicken appetizer marinated in yogurt and spices.",
+        "itemPrice": 250,
+        "itemCategory": "Dinner",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M023",
+        "itemName": "Pongal",
+        "itemDescription": "Comfort food made with rice and lentils, seasoned with black pepper and ghee.",
+        "itemPrice": 100,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+      },
+      {
+        "itemId": "M024",
+        "itemName": "Banana Leaf Meals",
+        "itemDescription": "Traditional South Indian thali served on banana leaf with variety of curries.",
+        "itemPrice": 180,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+      },
+      {
+        "itemId": "M025",
+        "itemName": "Kesari",
+        "itemDescription": "Sweet semolina dessert flavored with saffron, ghee and garnished with nuts.",
+        "itemPrice": 100,
+        "itemCategory": "Dessert",
+        "itemImage": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9"
+      },
+      {
+        "itemId": "M026",
+        "itemName": "Paniyaram",
+        "itemDescription": "Round, fluffy dumplings made from fermented rice and lentil batter.",
+        "itemPrice": 80,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "itemId": "M027",
+        "itemName": "Crab Curry",
+        "itemDescription": "Fresh crab cooked in spicy coconut curry with traditional coastal spices.",
+        "itemPrice": 400,
+        "itemCategory": "Dinner",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M028",
+        "itemName": "Tamarind Rice",
+        "itemDescription": "Tangy rice dish flavored with tamarind paste and South Indian spices.",
+        "itemPrice": 140,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+      },
+      {
+        "itemId": "M029",
+        "itemName": "Masala Tea",
+        "itemDescription": "Spiced tea brewed with cardamom, ginger and other aromatic spices.",
+        "itemPrice": 30,
+        "itemCategory": "Drinks",
+        "itemImage": "https://images.unsplash.com/photo-1544145945-f90425340c7e"
+      },
+      {
+        "itemId": "M030",
+        "itemName": "Bonda",
+        "itemDescription": "Deep-fried snack made with potato filling covered in gram flour batter.",
+        "itemPrice": 70,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "itemId": "M031",
+        "itemName": "Egg Curry",
+        "itemDescription": "Hard-boiled eggs cooked in spicy tomato and coconut-based curry.",
+        "itemPrice": 160,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M032",
+        "itemName": "Rava Dosa",
+        "itemDescription": "Crispy, thin crepe made with semolina and rice flour, served with chutney.",
+        "itemPrice": 130,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M033",
+        "itemName": "Vegetable Korma",
+        "itemDescription": "Mixed vegetables cooked in creamy coconut and cashew-based curry.",
+        "itemPrice": 180,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M034",
+        "itemName": "Jigarthanda",
+        "itemDescription": "Refreshing drink made with milk, almond gum, ice cream and rose syrup.",
+        "itemPrice": 80,
+        "itemCategory": "Drinks",
+        "itemImage": "https://images.unsplash.com/photo-1544145945-f90425340c7e"
+      },
+      {
+        "itemId": "M035",
+        "itemName": "Puttu",
+        "itemDescription": "Steamed rice cake layered with coconut, traditionally served with banana.",
+        "itemPrice": 90,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M036",
+        "itemName": "Fish Curry",
+        "itemDescription": "Fresh fish cooked in tangy tamarind and coconut curry with curry leaves.",
+        "itemPrice": 280,
+        "itemCategory": "Dinner",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M037",
+        "itemName": "Adai",
+        "itemDescription": "Protein-rich pancake made with mixed lentils and served with jaggery.",
+        "itemPrice": 110,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M038",
+        "itemName": "Gulab Jamun",
+        "itemDescription": "Soft, spongy milk dumplings soaked in rose-flavored sugar syrup.",
+        "itemPrice": 120,
+        "itemCategory": "Dessert",
+        "itemImage": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9"
+      },
+      {
+        "itemId": "M039",
+        "itemName": "Lime Juice",
+        "itemDescription": "Fresh lime juice with mint and salt, perfect thirst quencher.",
+        "itemPrice": 50,
+        "itemCategory": "Drinks",
+        "itemImage": "https://images.unsplash.com/photo-1544145945-f90425340c7e"
+      },
+      {
+        "itemId": "M040",
+        "itemName": "Kuzhi Paniyaram",
+        "itemDescription": "Round dumplings made in special pan with fermented batter and vegetables.",
+        "itemPrice": 90,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "itemId": "M041",
+        "itemName": "Mutton Biryani",
+        "itemDescription": "Aromatic basmati rice cooked with tender mutton pieces and traditional spices.",
+        "itemPrice": 380,
+        "itemCategory": "Dinner",
+        "itemImage": "https://images.unsplash.com/photo-1563379091339-03246963d96c"
+      },
+      {
+        "itemId": "M042",
+        "itemName": "Kootu",
+        "itemDescription": "Traditional vegetable and lentil curry with coconut and South Indian spices.",
+        "itemPrice": 120,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M043",
+        "itemName": "Badam Milk",
+        "itemDescription": "Rich almond milk flavored with cardamom and saffron, served hot or cold.",
+        "itemPrice": 70,
+        "itemCategory": "Drinks",
+        "itemImage": "https://images.unsplash.com/photo-1544145945-f90425340c7e"
+      },
+      {
+        "itemId": "M044",
+        "itemName": "Medu Vada",
+        "itemDescription": "Crispy, donut-shaped fritters made from black lentil batter.",
+        "itemPrice": 80,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "itemId": "M045",
+        "itemName": "Chicken Curry",
+        "itemDescription": "Traditional South Indian chicken curry with coconut milk and spices.",
+        "itemPrice": 260,
+        "itemCategory": "Dinner",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M046",
+        "itemName": "Rava Kesari",
+        "itemDescription": "Sweet semolina pudding with ghee, sugar, and garnished with cashews.",
+        "itemPrice": 90,
+        "itemCategory": "Dessert",
+        "itemImage": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9"
+      },
+      {
+        "itemId": "M047",
+        "itemName": "Coconut Water",
+        "itemDescription": "Fresh tender coconut water, naturally refreshing and healthy.",
+        "itemPrice": 60,
+        "itemCategory": "Drinks",
+        "itemImage": "https://images.unsplash.com/photo-1544145945-f90425340c7e"
+      },
+      {
+        "itemId": "M048",
+        "itemName": "Pesarattu",
+        "itemDescription": "Green gram crepe stuffed with upma, a healthy Andhra breakfast dish.",
+        "itemPrice": 120,
+        "itemCategory": "Breakfast",
+        "itemImage": "https://images.unsplash.com/photo-1630383249896-424e482df921"
+      },
+      {
+        "itemId": "M049",
+        "itemName": "Vendakkai Curry",
+        "itemDescription": "Okra curry cooked with onions, tomatoes and South Indian spices.",
+        "itemPrice": 140,
+        "itemCategory": "Lunch",
+        "itemImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b"
+      },
+      {
+        "itemId": "M050",
+        "itemName": "Double Ka Meetha",
+        "itemDescription": "Bread pudding dessert made with fried bread, milk, sugar and dry fruits.",
+        "itemPrice": 150,
+        "itemCategory": "Dessert",
+        "itemImage": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9"
+      }
+    ]
+  }
+]
